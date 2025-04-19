@@ -1,4 +1,4 @@
 # Ferry-Ticket_Booking_JAVA
-Sem-1 java project
+cleaSem-1 java project
 <br>
-Author - jp_p@nchal
+Author - jp_p@nchal(jp)
